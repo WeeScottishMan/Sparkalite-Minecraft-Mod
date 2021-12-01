@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "":{
+          "model": "sparkalite:block/sparkalite_block"  
+        }
+    }
+}
