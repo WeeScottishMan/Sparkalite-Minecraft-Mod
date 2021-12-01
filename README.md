@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Sparkalite
 
-## Setup
+Add's a new ore and gear set to the end called sparkalite ✨ 
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is my first mod so please give any tips on how I could improve it 😊
+
+It is currently avalible for only 1.17 but should come to more versions in the future 👍
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This project is available under the CC BY 4.0 license. Feel free to share and adapt the code as long as attribution is given.
